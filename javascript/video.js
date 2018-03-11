@@ -1,5 +1,5 @@
 function doFirst(){
-	barSize=600;
+	barSize=300;
 	myMovie = document.getElementById('myMovie');
 	playButton = document.getElementById('playButton');
 	bar = document.getElementById('defaultBar');
